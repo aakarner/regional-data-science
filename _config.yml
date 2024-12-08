@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CRP 384 (spring 2025)
+title: CRP 384 (sp25)
 tagline: Graduate Program in Community and Regional Planning, The University of Texas at Austin
 description: Course website for Dr. Karner's spring 2025 seminar.
 author: Alex Karner, PhD
