@@ -102,7 +102,6 @@ The Perusall assignment is in lieu of a more typical reading responses, so I exp
 
 Here's a short video on Perusall basics: https://www.youtube.com/watch?v=O1mW_TXtd-c&ab_channel=MaggieGoverLinks to an external site.
 
-
 # Labs
 Because there is no formal lab time scheduled for the course, portions of some class periods will be run as traditional lab sessions where students will have an opportunity to work on an applied problem using R and related software. Labs will provide hands-on experience with the software, data, and methods that are the core of the course. There will be no graded lab submissions; you will complete them for your own edification and to help with completing the assignments. The lab materials will be cumulative, so if you must miss one due to absence, I strongly suggest that you quickly make it up.
 
@@ -137,7 +136,3 @@ Getting started with Just the Class is simple.
 1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
 
 Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
