@@ -29,7 +29,7 @@ We will engage with the emerging literature on mobility justice and place it wit
 - Motivate public engagement work in notions of dignity and repair
 - Compare and contrast different methods for achieving equity and justice
 
-# GIS/GIScience
+## GIS/GIScience
 In addition to covering the transportation and mobility justice literature, we will learn contemporary analytical methods for evaluating integrated transportation and land use systems using the statistical computing language R. Specifically, we will: 1) apply GIScience methods and data to address accessibility and equity challenges, 2) use specific pieces of software, tools, and data and 3) apply general programming and GIS best practices. Some of these objectives you may already be familiar with while others might be completely new. Even if we do not cover a specific problem type during the class, once it is over, you should be familiar with the types of problems that GIScience methods can solve and the data available to solve them. You will be able to interrogate the implications of specific analytical choices (e.g., areal units, data sources, metrics) to determine the best approach for a given situation.
 
 Specific learning objectives within each of the three categories are as follows:
