@@ -21,3 +21,12 @@ Oct 9
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
+
+---
+title: Test module
+---
+
+Oct 10
+: [test](#)
+  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
+: **HW 2 due**{: .label .label-red }
