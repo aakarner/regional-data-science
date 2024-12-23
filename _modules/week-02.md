@@ -22,9 +22,7 @@ Oct 9
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
 
----
-title: Test module
----
+## Layout test
 
 Oct 10
 : [test](#)
