@@ -31,7 +31,7 @@ March 6
 March 13
 
 March 20
-: No class--spring break.
+: No class--spring break. One week off.
 
 March 27
 : AAG Detroit
