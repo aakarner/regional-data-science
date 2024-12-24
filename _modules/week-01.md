@@ -2,22 +2,47 @@
 title: Introduction to Java
 ---
 
-Sep 28
+Jan 16
 : [Java & Git](#)
   : [1.1](#)
 
-Sep 29
+Jan 23
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
-Sep 30
+Jan 30
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
+Feb 6
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 
-Oct 2
+Feb 13
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
+
+Feb 20
+
+Feb 27
+
+March 6
+
+March 13
+
+March 20
+: No class--spring break.
+
+March 27
+: AAG Detroit
+
+April 3
+
+April 10
+
+April 17
+: Alex @ Kansas
+
+April 24
+
+May 1
