@@ -1,11 +1,7 @@
----
-title: Course calendar
----
-
 Jan 16
 : [Intro and mobility justice overview](#)
   : [Hello world! Python overview](#)
-  : [1.1](#)
+    : [1.1](#)
 
 Jan 23
 : **Section**{: .label .label-purple }[Intro to Java](#)
