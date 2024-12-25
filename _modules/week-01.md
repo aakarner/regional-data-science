@@ -1,10 +1,11 @@
 ---
-title: Introduction to Java
+title: Course calendar
 ---
 
 Jan 16
-: [Java & Git](#)
-  : [1.1](#)
+: [Intro and mobility justice overview](#)
+: [Hello world! Python overview](#)
+: [1.1](#)
 
 Jan 23
 : **Section**{: .label .label-purple }[Intro to Java](#)
