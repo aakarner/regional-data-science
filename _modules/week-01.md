@@ -15,45 +15,40 @@ title: xx
 : [Colab Python Intro](#)
 
 **In-class**{: .label .label-red }
-: [Lab 0: Grocery Store Access in Travis County](#)
+: [Grocery Store Access in Travis County](#)
 
-Jan 23
-: **Section**{: .label .label-purple }[Int](#)
-  : [Solution](#)
+# Jan 23
 
-Jan 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+# Jan 30
 
-Feb 6
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+# Feb 6
 
-Feb 13
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+# Feb 13
 
-Feb 20
+# Feb 20
 
-Feb 27
+# Feb 27
 
-March 6
+# March 6
 
-March 13
+# March 13
 
-March 20
-: No class--spring break. One week off.
+# March 20
 
-March 27
-: AAG Detroit
+No class--spring break. One week off.
 
-April 3
+# March 27
 
-April 10
+AAG Detroit
 
-April 17
-: Alex @ Kansas
+# April 3
 
-April 24
+# April 10
 
-May 1
+# April 17
+
+Alex @ Kansas
+
+# April 24
+
+# May 1
