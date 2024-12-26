@@ -9,12 +9,14 @@ title: xx
 * [Kafui Attoh. (2019). "Against idiocy." Interview on The Dig.](https://www.thedigradio.com/podcast/against-idiocy-with-kafui-attoh/)
 * [Untokening Collective. (2017). "Principle of Mobility Justice."](http://www.untokening.org/updates/2017/11/11/untokening-10-principles-of-mobility-justice)
 
-**Hello world! Python overview**
+**Hello world! Basic access analyis in Python**
+**Pre-class**{: .label .label-purple }[Colab Python Intro](#)
+**In-class**{: .label .label-red }[Lab 0: Grocery Store Access in Travis County](#)
 
 xx
 
 Jan 23
-: **Section**{: .label .label-purple }[Intro to Java](#)
+: **Section**{: .label .label-purple }[Int](#)
   : [Solution](#)
 
 Jan 30
