@@ -4,7 +4,13 @@ title: xx
 
 Jan 16
 : [Intro and mobility justice overview](#)
-  : [Hello world! Python overview](#)
+Karel Martens. (2020). "Seeking to promote transport justice? Start measuring transport problems!" https://www.youtube.com/watch?v=B2kxy6cBjxc
+
+Kafui Attoh. (2019). "Against idiocy." Interview on The Dig: https://www.thedigradio.com/podcast/against-idiocy-with-kafui-attoh/
+
+Untokening Collective. (2017). "Principle of Mobility Justice." http://www.untokening.org/updates/2017/11/11/untokening-10-principles-of-mobility-justice
+
+**[Hello world! Python overview](#)**
     : [1.1](#)
 
 Jan 23
