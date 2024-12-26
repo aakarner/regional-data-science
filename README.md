@@ -12,13 +12,11 @@ seo:
 
 ## Logistics
 
-**Meeting Time and Location**
-
+**Meeting Time and Location**\
 Th 2-5p\
 Sutton Hall 3.126
 
-**Instructor**
-
+**Instructor**\
 [Alex Karner, PhD](https://www.alexkarner.com)\
 Associate Professor\
 Graduate Program in Community and Regional Planning
