@@ -2,7 +2,7 @@
 title: xx
 ---
 
-## Table of contents
+## Links to all class meetings
 {: .no_toc .text-delta }
 
 1. TOC
@@ -39,11 +39,11 @@ title: xx
 
 # March 13
 
-# March 20
+# March 20 (spring break)
 
 No class--spring break. One week off.
 
-# March 27
+# March 27 (AAG Detroit)
 
 AAG Detroit
 
@@ -51,7 +51,7 @@ AAG Detroit
 
 # April 10
 
-# April 17
+# April 17 (Alex remote @ Kansas)
 
 Alex @ Kansas
 
