@@ -31,7 +31,7 @@ title: xx
 * Martens, K. (2017). "Transport Justice." Routledge. Chapter 2: Fairness in traditional transportation planning. 
 * Sheller, M. (2018). "Mobility justice: The politics of movement in an age of extremes." Verso. Chapter 1: What is mobility justice?
 
-**Python topic 2**
+**Split-Apply-Combine 1**
 
 **Pre-class**{: .label .label-purple }
 : [Pandas overview, data input](#)
@@ -39,18 +39,28 @@ title: xx
 **In-class**{: .label .label-red }
 : [Basic data wrangling](#)
 
-
 # Jan 30
 
-**Accessing data online**
+These readings cover examples of academic work that have used split-apply-combine methods. 
+
+**Split-Apply-Combine 2**
+
 **Pre-class**{: .label .label-purple }
-: [API queries](#)
+: [Pandas overview, data input](#)
 
 **In-class**{: .label .label-red }
-: [Bikeshare analysis plus census data](#)
-
+: [Basic data wrangling](#)
 
 # Feb 6
+
+* Equity analysis basics/Equity analysis lab using EJ data
+
+
+# Feb 13
+
+* Readings that do a particularly good/bad job at data viz in transport
+
+**Data Visualization**
 
 **Pre-class**{: .label .label-purple }
 : [Visualization using matplotlib and Altair](#)
@@ -60,32 +70,59 @@ title: xx
 
 
 
-# Feb 13
-
 # Feb 20
+
+* Readings that use APIs to access data
+
+**Pre-class**{: .label .label-purple }
+: [API queries](#)
+
+**In-class**{: .label .label-red }
+: [Bikeshare analysis plus census data](#)
+
 
 # Feb 27
 
+* Transportation insecurity and related methods
+
 # March 6
+
+* Intro to transit data and r5py
+
 
 # March 13
 
+* Spatiotemporal accesibility modeling
+
+
 # March 20 (spring break)
 
-No class--spring break. One week off.
+***No class--spring break. One week off.***
 
 # March 27 (AAG Detroit)
 
 Alex @ AAG Detroit
 
+* Guest lecture TBD
+
 # April 3
 
+
+
 # April 10
+
+* Poverty of the carless
 
 # April 17 (Alex remote @ Kansas)
 
 Alex @ Kansas
 
+* Safety and policing
+
 # April 24
 
+* Final paper consultation/work period
+
 # May 1
+
+* Final presentation/discussions
