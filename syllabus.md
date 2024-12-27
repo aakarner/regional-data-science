@@ -105,11 +105,11 @@ DO NOT USE CHATGPT OR ANY OTHER LARGE-LANGUAGE MODEL TO PREPARE CONTENT FOR THIS
 The student assessments for this course will involve a mix of in-class participation, formal presentations, written reading responses, and a final project presentation and report. Some of these will be completed in groups, but unless explicitly identified as group work, all work is to be completed by you alone. Details regarding each assessment category are provided below.
 
 
-# Participation
+## Participation
 
 I encourage active and constructive participation from students during class time. Since you are all graduate students with interests in transportation planning, GIS, and justice, I expect that you will have strong opinions about which data and methods should be used to best address transportation planning challenges and how we should understand contemporary transportation justice challenges. Our readings will also provide fodder for discussion. Please share your opinions during class while being respectful of other students’ opinions and time. We will sometimes have structured in-class participation activities involving small group discussions combined with reporting back to the larger class. Students are expected to be active and engaged during these times. These activities are designed to provide students who are less comfortable speaking in a large group the opportunity to be heard and to solidify key learning objectives through deeper student engagement. Your attendance will also factor into your participation grade. 
 
-# Discussion lead
+## Discussion lead
 
 To facilitate our discussion of the various course readings, all students will lead at least one discussion during the semester. Leading the discussion does not mean that you have to undertake an exhaustive analysis of a text or texts, but rather prepare a short (10-12 minute) summary of the principal arguments, followed by some questions that you would like the class to discuss. Each week, we will have one or more volunteers who will help in this effort.  Slides are not required but can be used if you wish. 
 
@@ -118,7 +118,7 @@ Tips for formulating good discussion questions can be found here:
 https://www.eduflow.com/blog/how-to-write-discussion-questions-that-actually-spark-discussionsLinks to an external site.
 https://crlt.umich.edu/using-discussion-questions-effectivelyLinks to an external site.
 
-# Perusall reading responses
+## Perusall reading responses
 
 You will complete short reading assignments prior to class using PerusallLinks to an external site.. Perusall is a "social e-reader." Each week, I'll load your readings and sometimes other media into a Perusall assignment. You'll login and create annotations in each document.  These annotations can address things that you agree or disagree with, questions you have about the material, responses to the annotations created by your classmates, or . 
 
@@ -126,11 +126,11 @@ The Perusall assignment is in lieu of a more typical reading responses, so I exp
 
 Here's a short video on Perusall basics: https://www.youtube.com/watch?v=O1mW_TXtd-c&ab_channel=MaggieGoverLinks to an external site.
 
-# Labs
+## Labs
 
 Because there is no formal lab time scheduled for the course, portions of some class periods will be run as traditional lab sessions where students will have an opportunity to work on an applied problem using R and related software. Labs will provide hands-on experience with the software, data, and methods that are the core of the course. There will be no graded lab submissions; you will complete them for your own edification and to help with completing the assignments. The lab materials will be cumulative, so if you must miss one due to absence, I strongly suggest that you quickly make it up.
 
-# Final project
+## Final project
 
 Details forthcoming. 
 
