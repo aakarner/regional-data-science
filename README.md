@@ -8,7 +8,7 @@ seo:
   name: Karner
 ---
 
-# Regional Data Science for Mobility Justice\
+# Regional Data Science for Mobility Justice
 The University of Texas at Austin, Spring 2025
 
 **Instructor**: [Alex Karner](https://www.alexkarner.com)
