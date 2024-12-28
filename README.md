@@ -8,6 +8,8 @@ seo:
   name: Karner
 ---
 
+![Unsplash image--Bus stop with grafiti](Assets/banner.jpg)
+
 # Regional Data Science for Mobility Justice
 The University of Texas at Austin, Spring 2025
 
