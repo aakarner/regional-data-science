@@ -9,6 +9,7 @@ seo:
 ---
 
 ![Unsplash image--Bus stop with grafiti](assets/images/banner.jpg)
+<sub><sup>Photo by <a href="https://unsplash.com/@kazaks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Krišjānis Kazaks</a> on <a href="https://unsplash.com/photos/a-person-sitting-on-a-bench-in-front-of-a-building-bL73WBZnRfo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sup></sub>
 
 # Regional Data Science for Mobility Justice
 The University of Texas at Austin, Spring 2025
