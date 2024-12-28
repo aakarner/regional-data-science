@@ -1,0 +1,17 @@
+$border-color: #e0e0e0;
+$background-color: #fafafa;
+$padding: 10px;
+$border-radius: 5px;
+$margin-bottom: 15px;
+
+.lecture-box {
+  border: 1px solid $border-color;
+  padding: $padding;
+  border-radius: $border-radius;
+  background-color: $background-color;
+  margin-bottom: $margin-bottom;
+
+  h3 {
+    margin-top: 0; // Remove extra space above the heading
+  }
+}
