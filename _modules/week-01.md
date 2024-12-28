@@ -8,7 +8,7 @@ title: xx
 1. TOC
 {:toc}
 
-<div class="lecture-box">
+<div class="lecture-box" markdown = "1">
   # Jan 16
   **Intro and mobility justice overview**
 
