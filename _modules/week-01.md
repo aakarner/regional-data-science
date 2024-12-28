@@ -8,6 +8,7 @@ title: xx
 1. TOC
 {:toc}
 
+<div class="card">
 # Jan 16
 **Intro and mobility justice overview**
 
@@ -22,6 +23,7 @@ title: xx
 
 **In-class**{: .label .label-red }
 : [Grocery Store Access in Travis County](#)
+</div>
 
 # Jan 23
 **What is justice in transport and how do we get it?**
