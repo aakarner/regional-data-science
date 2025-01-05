@@ -30,7 +30,7 @@ Upon completing this course, students will have acquired new skills (and solidif
 
 Specifically, the course has several broad categories of learning objectives. These include those related to defining, applying, and critically engaging with key equity and justice theories and concepts as well as others that are focused more on geographic information systems (GIS) and GIScience data and methods. 
 
-Transportation equity, transportation justice, and mobility justice
+## Transportation equity, transportation justice, and mobility justice
 We will engage with the emerging literature on mobility justice and place it within the context of earlier work on transportation equity and justice. Specifically, we will:
 
 - Articulate and compare key contemporary ideas about transportation justice and equity
@@ -41,21 +41,27 @@ We will engage with the emerging literature on mobility justice and place it wit
 
 ## GIS/GIScience
 
-In addition to covering the transportation and mobility justice literature, we will learn contemporary analytical methods for evaluating integrated transportation and land use systems using the statistical computing language R. Specifically, we will: 1) apply GIScience methods and data to address accessibility and equity challenges, 2) use specific pieces of software, tools, and data and 3) apply general programming and GIS best practices. Some of these objectives you may already be familiar with while others might be completely new. Even if we do not cover a specific problem type during the class, once it is over, you should be familiar with the types of problems that GIScience methods can solve and the data available to solve them. You will be able to interrogate the implications of specific analytical choices (e.g., areal units, data sources, metrics) to determine the best approach for a given situation.
+In addition to covering the transportation and mobility justice literature, we will learn contemporary analytical methods for evaluating integrated transportation and land use systems using the programming language Python. Specifically, we will: 
+
+1. apply GIScience methods and data to address accessibility and equity challenges,
+2. use specific pieces of software, tools, and data and 
+3. apply general programming and GIS best practices. 
+
+Some of these objectives you may already be familiar with while others might be completely new. Even if we do not cover a specific problem type during the class, once it is over, you should be familiar with the types of problems that GIScience methods can solve and the data available to solve them. You will be able to interrogate the implications of specific analytical choices (e.g., areal units, data sources, metrics) to determine the best approach for a given situation.
 
 Specific learning objectives within each of the three categories are as follows:
 
-## Accessibility and equity
+### Accessibility and equity
 
 Accessibility—defined simply as ease with which people can reach valued opportunities—is the fundamental benefit conferred by a transportation system. Accessibility undergirds travel behavior and land use. Students will calculate, compare, and critically evaluate different measures of multimodal accessibility in a GIS-T environment.
 
 Social equity, fairness, and justice are transportation planning goals embedded in federal law and guidance but whose analysis is often poor or nonexistent. Additionally, evidence is mounting that more equitable cities and regions are also more economically competitive and environmentally sustainable. Students will use results drawn from their GIS-T investigations to operationalize and assess equity conditions in cities and regions across the United States.
 
-## Specific software, tools, and data
+### Specific software, tools, and data
 
 Students will gain proficiency in contemporary software, tools, and data to assess accessibility and equity in transportation systems including:
 
-* R to calculate service areas, travel times, and routes and conduct equity analysis.
+* Python to calculate service areas, travel times, and routes and conduct equity analysis.
 * OpenStreetMap as a source of free, readily accessible data with which to build routable networks.
 * General Transit Feed Specification (GTFS) data to represent transit networks and travel times by public transit within a GIS-T framework.
 * The US Census Bureau and tidycensus as valuable sources of demographic, employment, and transportation information.
@@ -96,18 +102,21 @@ We will be completing writing assignments for this course. Plagiarism involves u
 
 Note: All work completed for this class will be checked against the institutional Turnitin repository which includes other student submissions.  Turnitin is a software resource intended to address plagiarism and improper citation. The software works by cross-referencing submitted materials with an archived database of journals, essay, newspaper articles, books, and other published work. In addition, other methods may be used to determine the originality of the paper. This software is not intended to replace or substitute for my judgement regarding plagiarism detection.
 
-If you are caught plagiarizing or cheating, you will be evaluated according to the University of Texas Honor Code. For any questions involving these or any other Academic Honor Code issues, please consult me or http://catalog.utexas.edu/general-information/appendices/appendix-c/student-discipline-and-conduct/Links to an external site.. If you are not sure what constitutes cheating or plagiarizing, please come see me to discuss. 
+If you are caught plagiarizing or cheating, you will be evaluated according to the [University of Texas Honor Code](https://deanofstudents.utexas.edu/conduct/standardsofconduct.php). For any questions involving these or any other Academic Honor Code issues, please consult me or the [Dean of Students](https://deanofstudents.utexas.edu/conduct/). If you are not sure what constitutes cheating or plagiarizing, please come see me to discuss. 
 
-DO NOT USE CHATGPT OR ANY OTHER LARGE-LANGUAGE MODEL TO PREPARE CONTENT FOR THIS CLASS.
+## Large language models and artificial intelligence (AI)
+
+Understanding how and when to use generative AI tools (such as ChatGPT, DALL-E, Claude, Bard, or others) is quickly emerging as an important skill for future professionals. To that end, you are welcome to use generative AI tools in this class as long as that use aligns with the learning outcomes or goals associated with assignments. You are fully responsible for the information you submit based on a generative AI query (such that it does not violate academic honesty standards, intellectual property laws, or standards of non-public research you are conducting through coursework). Your use of generative AI tools must be properly documented and cited for any work submitted in this course.
 
 # Assessments
 
 The student assessments for this course will involve a mix of in-class participation, formal presentations, written reading responses, and a final project presentation and report. Some of these will be completed in groups, but unless explicitly identified as group work, all work is to be completed by you alone. Details regarding each assessment category are provided below.
 
-
 ## Participation
 
-I encourage active and constructive participation from students during class time. Since you are all graduate students with interests in transportation planning, GIS, and justice, I expect that you will have strong opinions about which data and methods should be used to best address transportation planning challenges and how we should understand contemporary transportation justice challenges. Our readings will also provide fodder for discussion. Please share your opinions during class while being respectful of other students’ opinions and time. We will sometimes have structured in-class participation activities involving small group discussions combined with reporting back to the larger class. Students are expected to be active and engaged during these times. These activities are designed to provide students who are less comfortable speaking in a large group the opportunity to be heard and to solidify key learning objectives through deeper student engagement. Your attendance will also factor into your participation grade. 
+I encourage active and constructive participation from students during class time. Since you are all graduate students with interests in transportation planning, GIS, and justice, I expect that you will have strong opinions about which data and methods should be used to best address transportation planning challenges and how we should understand contemporary transportation justice challenges. Our readings will also provide fodder for discussion. 
+
+Please share your opinions during class while being respectful of other students’ opinions and time. We will sometimes have structured in-class participation activities involving small group discussions combined with reporting back to the larger class. Students are expected to be active and engaged during these times. These activities are designed to provide students who are less comfortable speaking in a large group the opportunity to be heard and to solidify key learning objectives through deeper student engagement. Your attendance will also factor into your participation grade. 
 
 ## Discussion lead
 
@@ -115,20 +124,18 @@ To facilitate our discussion of the various course readings, all students will l
 
 Tips for formulating good discussion questions can be found here:
 
-https://www.eduflow.com/blog/how-to-write-discussion-questions-that-actually-spark-discussionsLinks to an external site.
-https://crlt.umich.edu/using-discussion-questions-effectivelyLinks to an external site.
+* [How to Write Discussion Questions That Actually Spark Discussions](https://www.eduflow.com/blog/how-to-write-discussion-questions-that-actually-spark-discussions)
+* [Using Discussion Questions Effectively](https://crlt.umich.edu/using-discussion-questions-effectively)
 
 ## Perusall reading responses
 
-You will complete short reading assignments prior to class using PerusallLinks to an external site.. Perusall is a "social e-reader." Each week, I'll load your readings and sometimes other media into a Perusall assignment. You'll login and create annotations in each document.  These annotations can address things that you agree or disagree with, questions you have about the material, responses to the annotations created by your classmates, or . 
+You will complete short reading assignments prior to class using [Perusall](https://app.perusall.com/courses/sp25-12-transportation-equity-anly-01469/_/dashboard/startup). Perusall is a "social e-reader." Each week, I'll load your readings and sometimes other media into a Perusall assignment. You'll login and create annotations in each document. These annotations can address things that you agree or disagree with, questions you have about the material, or responses to the annotations created by your classmates.
 
-The Perusall assignment is in lieu of a more typical reading responses, so I expect that each week you'll create at least 2-3 annotations per piece. The first paragraph should include a short summary of the readings from that week and the rest of the response should reflect on the readings to highlight critical questions, tie the work to other materials we've engaged with throughout the course or that you've found on your own, or relate them to your own experiences. 
-
-Here's a short video on Perusall basics: https://www.youtube.com/watch?v=O1mW_TXtd-c&ab_channel=MaggieGoverLinks to an external site.
+The Perusall assignment is in lieu of a more typical reading responses, so I expect that each week you'll create at least 2-3 annotations per piece. Here's a short video on [Perusall basics](https://www.youtube.com/watch?v=O1mW_TXtd-c&ab_channel=MaggieGover).
 
 ## Labs
 
-Because there is no formal lab time scheduled for the course, portions of some class periods will be run as traditional lab sessions where students will have an opportunity to work on an applied problem using R and related software. Labs will provide hands-on experience with the software, data, and methods that are the core of the course. There will be no graded lab submissions; you will complete them for your own edification and to help with completing the assignments. The lab materials will be cumulative, so if you must miss one due to absence, I strongly suggest that you quickly make it up.
+Because there is no formal lab time scheduled for the course, portions of some class periods will be run as traditional lab sessions where students will have an opportunity to work on an applied problem using Python and related software. Labs will provide hands-on experience with the software, data, and methods that are the core of the course. There will be no graded lab submissions; you will complete them for your own edification and to help with completing the assignments. The lab materials will be cumulative, so if you must miss one due to absence, I strongly suggest that you quickly make it up.
 
 ## Final project
 

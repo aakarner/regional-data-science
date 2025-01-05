@@ -8,22 +8,20 @@ title: xx
 1. TOC
 {:toc}
 
-<div class="lecture-box" markdown = "1">
-  # Jan 16
-  **Intro and mobility justice overview**
+# Jan 16
+**Intro and mobility justice overview**
 
-  * [Karel Martens. (2020). "Seeking to promote transport justice? Start measuring transport problems!"](https://www.youtube.com/watch?v=B2kxy6cBjxc)
-  * [Kafui Attoh. (2019). "Against idiocy." Interview on The Dig.](https://www.thedigradio.com/podcast/against-idiocy-with-kafui-attoh/)
-  * [Untokening Collective. (2017). "Principles of Mobility Justice."](http://www.untokening.org/updates/2017/11/11/untokening-10-principles-of-mobility-justice)
+* [Karel Martens. (2020). "Seeking to promote transport justice? Start measuring transport problems!"](https://www.youtube.com/watch?v=B2kxy6cBjxc)
+* [Kafui Attoh. (2019). "Against idiocy." Interview on The Dig.](https://www.thedigradio.com/podcast/against-idiocy-with-kafui-attoh/)
+* [Untokening Collective. (2017). "Principles of Mobility Justice."](http://www.untokening.org/updates/2017/11/11/untokening-10-principles-of-mobility-justice)
 
-  **Hello world! Basic access analyis in Python**
+**Hello world! Basic access analyis in Python**
 
-  **Pre-class**{: .label .label-purple }
-  : [Colab Python Intro](#)
+**Pre-class**{: .label .label-purple }
+: [Colab Python Intro](#)
 
-  **In-class**{: .label .label-red }
-  : [Grocery Store Access in Travis County](#)
-</div>
+**In-class**{: .label .label-red }
+: [Grocery Store Access in Travis County](#)
 
 # Jan 23
 **What is justice in transport and how do we get it?**
