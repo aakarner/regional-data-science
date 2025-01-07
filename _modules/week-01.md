@@ -18,7 +18,7 @@ title: xx
 **Hello world! Basic access analyis in Python**
 
 **Pre-class**{: .label .label-purple }
-: [Colab Python Intro](#)
+: [Colab Python Intro](https://colab.research.google.com/drive/1-ylSsNKmzE0cVfx-1nfTn6k6H8VqU8bh?usp=sharing)
 
 **In-class**{: .label .label-red }
 : [Grocery Store Access in Travis County](#)
