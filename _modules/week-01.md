@@ -3,9 +3,9 @@ title: Jan 16--Introduction and Mobility Justice Overview
 ---
 
 **Required materials**
+* [U.S. Department of Transportation. (2022). "DOT Equity Action Plan."](https://www.transportation.gov/sites/dot.gov/files/2022-04/Equity_Action_Plan.pdf)
 * [Karel Martens. (2020). "Seeking to promote transport justice? Start measuring transport problems!"](https://www.youtube.com/watch?v=B2kxy6cBjxc)
-* [Kafui Attoh. (2019). "Against idiocy." Interview on The Dig.](https://www.thedigradio.com/podcast/against-idiocy-with-kafui-attoh/)
-* [Untokening Collective. (2017). "Principles of Mobility Justice."](http://www.untokening.org/updates/2017/11/11/untokening-10-principles-of-mobility-justice)
+* [Charles T. Brown. (2024). "Equity Summit Keynote."](https://www.youtube.com/watch?v=zWUn-Q0j_iI&t=1167s)
 
 **Hello world! Basic access analyis in Python**
 
