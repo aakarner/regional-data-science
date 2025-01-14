@@ -1,9 +1,8 @@
 ---
-title: Introduction and Mobility Justice Overview
+title: Jan 16--Introduction and Mobility Justice Overview
 ---
 
-# Jan 16
-**Intro and mobility justice overview**
+**Required materials**
 
 * [Karel Martens. (2020). "Seeking to promote transport justice? Start measuring transport problems!"](https://www.youtube.com/watch?v=B2kxy6cBjxc)
 * [Kafui Attoh. (2019). "Against idiocy." Interview on The Dig.](https://www.thedigradio.com/podcast/against-idiocy-with-kafui-attoh/)
