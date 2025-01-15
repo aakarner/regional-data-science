@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CRP 384
+title: Home
 nav_exclude: true
 permalink: /:path/
 seo:
