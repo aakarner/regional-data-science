@@ -5,7 +5,10 @@ description: >-
     Listing of course modules and topics.
 ---
 
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
 # Calendar
 
-# This page is pure markdown now
-here's some text
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
