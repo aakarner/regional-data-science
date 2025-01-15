@@ -7,6 +7,7 @@ Required Materials
     * [U.S. Department of Transportation. (2022). "DOT Equity Action Plan."](https://www.transportation.gov/sites/dot.gov/files/2022-04/Equity_Action_Plan.pdf)
     * [Karel Martens. (2020). "Seeking to promote transport justice? Start measuring transport problems!"](https://www.youtube.com/watch?v=B2kxy6cBjxc)
     * [Charles T. Brown. (2024). "Equity Summit Keynote."](https://www.youtube.com/watch?v=zWUn-Q0j_iI&t=1167s)
+* [Panopto Video: Intro Python Notebooks](https://utexas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=818497f3-d372-4e87-8332-b2610171ae08)
 
 Hello World! Basic Access Analyis in Python
 
