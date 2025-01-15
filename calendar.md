@@ -7,6 +7,5 @@ description: >-
 
 # Calendar
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+# This page is pure markdown now
+here's some text
