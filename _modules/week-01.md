@@ -1,5 +1,5 @@
 ---
-title: Jan 16---Introduction and Mobility Justice Overview
+title: Jan 16&mdash;Introduction and Mobility Justice Overview
 ---
 
 Required Materials  
