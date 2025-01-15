@@ -1,5 +1,5 @@
 ---
-title: Jan 23--What is Justice in Transport and How Do We Get It?
+title: Jan 23&mdash;What is Justice in Transport and How Do We Get It?
 ---
 
 Required Materials  

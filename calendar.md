@@ -6,7 +6,6 @@ description: >-
 ---
 
 # Calendar
----
 
 {% for module in site.modules %}
 {{ module }}
