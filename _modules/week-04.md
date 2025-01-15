@@ -9,5 +9,6 @@ Required Materials
 
 **Pre-class**{: .label .label-purple }
 : [Basic Inequality and Sufficiency Analysis](#)
+
 **In-class**{: .label .label-red }
 : [Advanced Inequality and Sufficiency Analysis](#)

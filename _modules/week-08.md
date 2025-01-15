@@ -9,5 +9,6 @@ Required Materials
 
 **Pre-class**{: .label .label-purple }
 : [Installing and Using r5py](#)
+
 **In-class**{: .label .label-red }
 : [Full Network Analysis with r5py](#)

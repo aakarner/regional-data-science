@@ -10,7 +10,9 @@ Required Materials
     * [Allen, J. and S. Farber. (2021). "Changes in Transit Accessibility to Food Banks in Toronto during COVID-19." Findings.](https://findingspress.org/article/24072-changes-in-transit-accessibility-to-food-banks-in-toronto-during-covid-19)
 
 Data Visualization, Mapping, and Cartography
+
 **Pre-class**{: .label .label-purple }
 : [Visualization Using Matplotlib and Altair](#)
+
 **In-class**{: .label .label-red }
 : [Data Visualization and Mapping in Python](#)

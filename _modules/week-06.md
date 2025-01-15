@@ -8,5 +8,6 @@ Required Materials
 
 **Pre-class**{: .label .label-purple }
 : [Census Data Download using the API](#)
+
 **In-class**{: .label .label-red }
 : [Equity Analysis Lab](#)
