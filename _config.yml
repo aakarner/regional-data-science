@@ -28,10 +28,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Alex Karner:
-    - 'https://www.alexkarner.com'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Canvas:
+    - 'https://utexas.instructure.com/courses/1410081'
+  Panopto:
+    - 'https://utexas.instructure.com/courses/1410081/external_tools/136247'
+  Perusall:
+    - 'https://app.perusall.com/courses/sp25-12-transportation-equity-anly-01469/_/dashboard'
 footer_content:
 
 # Collections for website data

@@ -11,7 +11,7 @@ Required Materials
 Split-Apply-Combine 1
 
 **Pre-class**{: .label .label-purple }
-: [Pandas Overview, Data Input, Key Functions and Methods](#)
+: [Review Travis County Grocery Store Exercise](https://colab.research.google.com/drive/1LekNDagbs-jXQ5O84JxBPY52EriXiVCF?usp=sharing)
 
 **In-class**{: .label .label-red }
-: [Basic Data Wrangling](#)
+: [Basic Data Wrangling with Pandas](#)
