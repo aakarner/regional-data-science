@@ -77,7 +77,7 @@ Students will also gain invaluable experience with data management and programmi
 # Course expectations and policies
 
 ## Texas Senate Bill 17
-[Texas Senate Bill 17](https://capitol.texas.gov/tlodocs/88R/billtext/pdf/SB00017F.pdf), the recent law that outlaws diversity, equity, and inclusion programs at public colleges and universities in Texas, does not in any way affect content, instruction or discussion in a course at public colleges and universities in Texas. Expectations regarding academic freedom for teaching and class discussion have not been altered post-SB 17, and students should not feel the need to censor their speech pertaining to topics pertaining to race and racism, structural inequality, LGBTQIA+ issues, or diversity, equity, and inclusion.
+[Texas Senate Bill 17](https://capitol.texas.gov/tlodocs/88R/billtext/pdf/SB00017F.pdf), the recent law that outlaws diversity, equity, and inclusion programs at public colleges and universities in Texas, does not in any way affect content, instruction or discussion in a course at public colleges and universities in Texas. Expectations regarding academic freedom for teaching and class discussion have not been altered post-SB 17, and students should not feel the need to censor their speech pertaining to topics including, but not limited to, race and racism, structural inequality, LGBTQIA+ issues, or diversity, equity, and inclusion.
 
 ## Teaching modality
 
