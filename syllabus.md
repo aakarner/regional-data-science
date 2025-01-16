@@ -121,20 +121,28 @@ I encourage active and constructive participation from students during class tim
 
 Please share your opinions during class while being respectful of other students’ opinions and time. We will sometimes have structured in-class participation activities involving small group discussions combined with reporting back to the larger class. Students are expected to be active and engaged during these times. These activities are designed to provide students who are less comfortable speaking in a large group the opportunity to be heard and to solidify key learning objectives through deeper student engagement. Your attendance will also factor into your participation grade. 
 
-## Discussion lead
+## Discussion roles
 
-To facilitate our discussion of the various course readings, all students will lead at least one discussion during the semester. Leading the discussion does not mean that you have to undertake an exhaustive analysis of a text or texts, but rather prepare a short (10-12 minute) summary of the principal arguments, followed by some questions that you would like the class to discuss. Each week, we will have one or more volunteers who will help in this effort.  Slides are not required but can be used if you wish. 
+To facilitate our discussion of the various course readings, all students will take on structured discussion roles during each class period. You will sign up [here](https://docs.google.com/spreadsheets/d/1rAulMCItXIFzD-5H4KxqhGyq5xH398uXTFbHL_4gH38/edit?gid=0#gid=0) for four slots throughout the course of the semester. Each class will have five or six student taking on the following roles:
 
-Tips for formulating good discussion questions can be found here:
-
-* [How to Write Discussion Questions That Actually Spark Discussions](https://www.eduflow.com/blog/how-to-write-discussion-questions-that-actually-spark-discussions)
-* [Using Discussion Questions Effectively](https://crlt.umich.edu/using-discussion-questions-effectively)
+* **Concept Definer:** Come to class with two key concepts from the reading identified and definitions written out that you can read to us.
+* **Passage Keeper:** Come to class with two passages in the reading identified for further discussion and will be prepared to summarize them in plain language to the class.
+* **Comment Identifier:** Come to class with 2 exceptional and thought-provoking Perusall comments identified that we should further discuss. Feel free to respond to these comments on Perusall before class and let us know what you want to discuss.
+* **Reporter:** Write down the major themes discussed in class. At the beginning of the following class, you will give the class a 5-minute summary of what we discussed last time.
+* **Wildcard:** Bring in something creative to liven up our discussion. Connections of our reading to art, fiction, popular culture, policy, etc. are encouraged (as are cakes, cookies, etc).
+* **Passage Keeper 2** (as needed).
 
 ## Perusall reading responses
 
 You will complete short reading assignments prior to class using [Perusall](https://app.perusall.com/courses/sp25-12-transportation-equity-anly-01469/_/dashboard/startup). Perusall is a "social e-reader." Each week, I'll load your readings and sometimes other media into a Perusall assignment. You'll login and create annotations in each document. These annotations can address things that you agree or disagree with, questions you have about the material, or responses to the annotations created by your classmates.
 
 The Perusall assignment is in lieu of a more typical reading responses, so I expect that each week you'll create at least 2-3 annotations per piece. Here's a short video on [Perusall basics](https://www.youtube.com/watch?v=O1mW_TXtd-c&ab_channel=MaggieGover).
+
+You might find these tips for formulating good discussion questions helpful:
+
+* [How to Write Discussion Questions That Actually Spark Discussions](https://www.eduflow.com/blog/how-to-write-discussion-questions-that-actually-spark-discussions)
+* [Using Discussion Questions Effectively](https://crlt.umich.edu/using-discussion-questions-effectively)
+
 
 ## Labs
 
