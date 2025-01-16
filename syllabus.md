@@ -147,3 +147,31 @@ Details forthcoming.
 # Policy on late work
 
 All written work must be turned into Canvas at the date and time noted on the assignment prompt. Work submitted late will receive reduced credit of five points (on a traditional 100-point grading scale) per day or portion of day late, unless prior arrangements have been made with the instructor.
+
+# Grading
+
+All grades may be adjusted upward or downward depending on the distribution resulting from a particular assessment. Final grades will be based on the following components, weighted as shown:
+
+| Component                 | Value     |
+|----                       | ----      |
+| In-class participation    | 20        |
+| Perusall reading responses| 25        |
+| Discussion roles          | 25        |
+| Final project             | 30        |
+| **Total**                 | 100       |
+
+Your final unrounded percentage will be translated into a letter grade as follows:
+
+| A     | 94-100    |
+| A-    | 90-93     |
+| B+    | 87-89     |
+| B     | 84-86     |
+| B-    | 80-83     |
+| C+    | 77-79     |
+| C     | 74-76     |
+| C-    | 70-73     |
+| D+    | 67-69     |
+| D     | 64-66     |
+| D-    | 60-63     |
+| F     | 0-59      |
+
