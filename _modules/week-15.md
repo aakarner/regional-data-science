@@ -1,3 +1,5 @@
 ---
-title: Apr 24&mdash;Final Paper Consultation/Work Period
+title: Apr 24&mdash;Final Presentations
 ---
+
+Students will present the results of their final papers during class time.
