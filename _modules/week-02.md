@@ -14,4 +14,5 @@ Split-Apply-Combine 1
 : [Review Travis County Grocery Store Exercise](https://colab.research.google.com/drive/1LekNDagbs-jXQ5O84JxBPY52EriXiVCF?usp=sharing)
 
 **In-class**{: .label .label-red }
-: [Basic Data Wrangling with Pandas](#)
+: [Python Data Types Exercise](https://colab.research.google.com/drive/1pgnGR9A5NRH_NjoOW8H4_KLTQBEgLcvV?usp=sharing)
+: [Chipotle Data Wrangling](https://colab.research.google.com/drive/1vynAbrIvXJgGMEjVkZ8-9Mp_5oOCeFhQ?usp=sharing)
