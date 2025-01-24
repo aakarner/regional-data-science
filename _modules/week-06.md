@@ -1,5 +1,5 @@
 ---
-title: Feb 6&mdash;Equity Analysis Basics (with Census data!)
+title: Feb 6&mdash;Equity Analysis Basics (plus Title VI/EJ/Census data)
 ---
 
 Required Materials
