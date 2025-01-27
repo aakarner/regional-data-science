@@ -132,6 +132,9 @@ To facilitate our discussion of the various course readings, all students will t
 * **Wildcard:** Bring in something creative to liven up our discussion. Connections of our reading to art, fiction, popular culture, policy, etc. are encouraged (as are cakes, cookies, etc).
 * **Passage Keeper 2** (as needed).
 
+Prior to class on Thursday, you will post material related to your discussion role to this shared [Google Slides deck](https://docs.google.com/presentation/d/1473fT81R_OMlAqZ49aj1e74ceYcnG1O2mRl0zx3bpsw/edit?usp=sharing).
+
+
 ## Perusall reading responses
 
 You will complete short reading assignments prior to class using [Perusall](https://app.perusall.com/courses/sp25-12-transportation-equity-anly-01469/_/dashboard/startup). Perusall is a "social e-reader." Each week, I'll load your readings and sometimes other media into a Perusall assignment. You'll login and create annotations in each document. These annotations can address things that you agree or disagree with, questions you have about the material, or responses to the annotations created by your classmates.
