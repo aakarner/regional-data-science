@@ -16,3 +16,4 @@ Hello World! Basic Access Analyis in Python
 
 **In-class**{: .label .label-red }
 : [Grocery Store Access in Travis County](https://colab.research.google.com/drive/1LekNDagbs-jXQ5O84JxBPY52EriXiVCF?usp=sharing)
+: [Solution Video](https://utexas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f630de5-e620-431c-b011-b273003d5495)
