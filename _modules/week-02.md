@@ -8,7 +8,7 @@ Required Materials
     * Martens, K. (2017). "Transport Justice." Routledge. Chapter 2: Fairness in traditional transportation planning. 
     * Sheller, M. (2018). "Mobility justice: The politics of movement in an age of extremes." Verso. Chapter 1: What is mobility justice?
 
-Split-Apply-Combine 1
+Python Basics
 
 **Pre-class**{: .label .label-purple }
 : [Review Travis County Grocery Store Exercise](https://colab.research.google.com/drive/1LekNDagbs-jXQ5O84JxBPY52EriXiVCF?usp=sharing)
