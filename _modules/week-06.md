@@ -1,13 +1,18 @@
 ---
-title: Feb 6&mdash;Equity Analysis Basics (plus Title VI/EJ/Census data)
+title: Feb 20&mdash;Data Visualization, Mapping, Cartography
 ---
 
-Required Materials
-* [Perusall Assignment #6](#)
+These readings build upon our prior concepts and demonstrate high-quality data visualizations. We'll refer to them as we develop our own maps and figures in class.
 
+Required Materials
+* [Perusall Assignment #5](#)
+    * [Klumpenhouwer, W. and A. Karner. (2025). "Where to Draw the Line: Impacts of Threshold Choice on Measures of Transport Poverty](https://osf.io/95qbv/download)
+    * [Allen, J. and S. Farber. (2021). "Changes in Transit Accessibility to Food Banks in Toronto during COVID-19." Findings.](https://findingspress.org/article/24072-changes-in-transit-accessibility-to-food-banks-in-toronto-during-covid-19)
+
+Data Visualization, Mapping, and Cartography
 
 **Pre-class**{: .label .label-purple }
-: [Census Data Download using the API](#)
+: [Visualization Using Matplotlib and Altair](#)
 
 **In-class**{: .label .label-red }
-: [Equity Analysis Lab](#)
+: [Data Visualization and Mapping in Python](#)

@@ -1,7 +1,7 @@
 ---
-title: Mar 27&mdash;AAG Detroit
+title: Mar 27&mdash;Spatiotemporal Accesibility Modeling
 ---
 
-Alex @ AAG in Detroit
-
-* Guest lecture TBD
+Required Materials  
+* [Perusall Assignment #9](#)
+    * Pereira, R. (2019). "Future accessibility impacts of transport policy scenarios: Equity and sensitivity to travel time thresholds for Bus Rapid Transit expansion in Rio de Janeiro." Journal of Transport Geography. 74: 321-332.

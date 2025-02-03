@@ -1,18 +1,14 @@
 ---
-title: Feb 13&mdash;Data Visualization, Mapping, Cartography
+title: Feb 13&mdash;Operationalizing Transportation Justice
 ---
 
-These readings build upon our prior concepts and demonstrate high-quality data visualizations. We'll refer to them as we develop our own maps and figures in class.
-
 Required Materials
-* [Perusall Assignment #5](#)
-    * [Klumpenhouwer, W. and A. Karner. (2025). "Where to Draw the Line: Impacts of Threshold Choice on Measures of Transport Poverty](https://osf.io/95qbv/download)
-    * [Allen, J. and S. Farber. (2021). "Changes in Transit Accessibility to Food Banks in Toronto during COVID-19." Findings.](https://findingspress.org/article/24072-changes-in-transit-accessibility-to-food-banks-in-toronto-during-covid-19)
-
-Data Visualization, Mapping, and Cartography
+* [Perusall Assignment #4](#)
+    * [Karner, A., R.H.M. Pereira, S. Farber. (2024). "Advances and Pitfalls in Measuring Transportation Equity." Transportation.](https://link.springer.com/article/10.1007/s11116-023-10460-7)
+    * [Martens,  K., M. Singer, A.L. Cohen-Zada. (2022). "Equity in Accessibility: Moving From Disparity to Insufficiency Analyses." Journal of the American Planning Association 88(4): 479-494.](https://www.tandfonline.com/doi/full/10.1080/01944363.2021.2016476)
 
 **Pre-class**{: .label .label-purple }
-: [Visualization Using Matplotlib and Altair](#)
+: [Basic Inequality and Sufficiency Analysis](#)
 
 **In-class**{: .label .label-red }
-: [Data Visualization and Mapping in Python](#)
+: [Advanced Inequality and Sufficiency Analysis](#)
