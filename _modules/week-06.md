@@ -12,7 +12,9 @@ Required Materials
 Data Visualization, Mapping, and Cartography
 
 **Pre-class**{: .label .label-purple }
-: [Visualization Using Matplotlib and Altair](#)
+: [Visualization Using Altair](#)
+: [An Introduction to Altair](https://vallandingham.me/altair_intro.html)
+: [Altair Simple Charts Guide](https://altair-viz.github.io/altair-tutorial/notebooks/02-Simple-Charts.html)
 
 **In-class**{: .label .label-red }
 : [Data Visualization and Mapping in Python](#)
