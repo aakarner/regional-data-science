@@ -17,4 +17,4 @@ Data Visualization, Mapping, and Cartography
 : [Example Python notebook covering `groupby()` and `agg()`](https://colab.research.google.com/drive/1E3JTrMgU-4vLeUUWjNHdRbnFSxMaf0yc?usp=sharing)
 
 **In-class**{: .label .label-red }
-: [Data Visualization and Mapping in Python](#)
+: [Data Visualization and Mapping in Python with Altair](https://colab.research.google.com/drive/1zYYJANobTTyntOXwQ_xJ-d3Baaf3W4Yy?usp=sharing)
