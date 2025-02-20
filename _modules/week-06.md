@@ -12,7 +12,6 @@ Required Materials
 Data Visualization, Mapping, and Cartography
 
 **Pre-class**{: .label .label-purple }
-: [Visualization Using Altair](#)
 : [An Introduction to Altair](https://vallandingham.me/altair_intro.html)
 : [Altair Simple Charts Guide](https://altair-viz.github.io/altair-tutorial/notebooks/02-Simple-Charts.html)
 : [Example Python notebook covering `groupby()` and `agg()`](https://colab.research.google.com/drive/1E3JTrMgU-4vLeUUWjNHdRbnFSxMaf0yc?usp=sharing)
