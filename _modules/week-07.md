@@ -14,3 +14,5 @@ Required Materials
 **In-class**{: .label .label-red }
 : [Basic Geoprocessing](https://colab.research.google.com/drive/1pxNCgQI9ah2W6XgrSoculE5ZnpUJQO45?usp=sharing)
 : [NY grocery store dataset](https://drive.google.com/file/d/1EMS_rk85b23gDaxx2f2R1kTEQKiOi1BP/view?usp=share_link)
+: [Areal interpolation shell notebook](https://colab.research.google.com/drive/13Eyx2aXKrnfgb46S_czdFmUH99xSNLkt?usp=sharing)
+: [CapMetro route shapefile--June 2022](https://catalog.data.gov/dataset/capital-metro-shapefiles-june-2022)
