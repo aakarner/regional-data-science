@@ -12,4 +12,5 @@ Required Materials
 : [Attribute and spatial joins in geopandas](https://geopandas.org/en/stable/docs/user_guide/mergingdata.html)
 
 **In-class**{: .label .label-red }
-: [Equity Analysis Lab](#)
+: [Basic Geoprocessing](https://colab.research.google.com/drive/1pxNCgQI9ah2W6XgrSoculE5ZnpUJQO45?usp=sharing)
+: [NY grocery store dataset](https://drive.google.com/file/d/1EMS_rk85b23gDaxx2f2R1kTEQKiOi1BP/view?usp=share_link)
