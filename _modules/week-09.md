@@ -8,7 +8,7 @@ Required Materials
     * [Morang, M. "Introduction to GTFS."](https://www.youtube.com/watch?v=8OQKHhu1VgQ&ab_channel=ArcGIS)
 
 **Pre-class**{: .label .label-purple }
-: [Installing and Using r5py](#)
+: [None](#)
 
 **In-class**{: .label .label-red }
-: [Full Network Analysis with r5py](#)
+: [Full Network Analysis with r5py--follow instructions in class and link to data on Canvas](https://utexas.instructure.com/courses/1410081/files/folder/data?preview=83724700)
